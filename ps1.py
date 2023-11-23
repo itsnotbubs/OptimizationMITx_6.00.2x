@@ -103,7 +103,7 @@ def brute_force_cow_transport(cows, limit=10):
 
     return optimal_partition
         
-# Problem 3
+#Problem 3
 def compare_cow_transport_algorithms(cows):
 
     # Measure the time taken and calculate the solution using the greedy algorithm
